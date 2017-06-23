@@ -22,21 +22,21 @@
 }
 
 #col1 {
-	background-image: url("/Users/user/Desktop/ProjectCrossfit/assets/images/comm.jpg");
+	background-image: url("ProjectCrossfit/assets/images/comm.jpg");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 
 #col2 {
-	background-image: url("/Users/user/Desktop/ProjectCrossfit/assets/images/cfit.jpg");
+	background-image: url("ProjectCrossfit/assets/images/cfit.jpg");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 
 #col3 {
-	background-image: url("/Users/user/Desktop/ProjectCrossfit/assets/images/ccs.jpg");
+	background-image: url("ProjectCrossfit/assets/images/ccs.jpg");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
