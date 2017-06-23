@@ -22,18 +22,18 @@
 }
 
 #col1 {
-	background-image: url("../images/comm.JPG");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
+	background-image: url("../images/comm.jpg");
 }
 
 
 #col2 {
-	background-image: url("../images/cfit.JPG");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
+	background-image: url("../images/cfit.JPG");
 }
 
 #col3 {
