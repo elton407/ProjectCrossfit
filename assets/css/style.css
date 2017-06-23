@@ -33,14 +33,14 @@
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
-	background-image: url("../images/cfit.JPG");
+	background-image: url("../images/cfit.jpg");
 }
 
 #col3 {
-	background-image: url("../images/ccs.JPG");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
+	background-image: url("../images/ccs.jpg");
 }
 
 .innercontact {
