@@ -22,21 +22,22 @@
 }
 
 #col1 {
-	background-image: url("ProjectCrossfit/assets/images/comm.jpg");
+	background-image: url("../images/comm.jpg");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 
+
 #col2 {
-	background-image: url("ProjectCrossfit/assets/images/cfit.jpg");
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../images/cfit.jpg");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 
 #col3 {
-	background-image: url("ProjectCrossfit/assets/images/ccs.jpg");
+	background-image: url("../images/ccs.jpg");
 	color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
@@ -244,7 +245,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28435c', end
 	height: 400px;
   background-image:
   linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
-   url("/Users/user/Desktop/ProjectCrossfit/assets/images/bgpic.jpeg")
+   url("../images/bgpic.jpeg")
 
 }
 
